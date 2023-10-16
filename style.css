@@ -1,5 +1,3 @@
-/*body*/
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;600;700&family=Skranji&display=swap');
 
 :root {
     --primary-color: rgb(162, 108, 162);
@@ -326,8 +324,6 @@ ul li a:hover {
 .my_achive p {
     margin-top: 10px;
 }
-
-/*contact*/
 /*contact*/
 .heading{
     display: flex;
